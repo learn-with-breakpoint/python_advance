@@ -1,0 +1,5 @@
+jupyterlab
+ipywidgets
+rope
+flake8
+autopep8
